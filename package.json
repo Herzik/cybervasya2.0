@@ -1,0 +1,37 @@
+{
+  "name": "cybervasya",
+  "version": "1.0.2",
+  "description": "Бот который смог",
+  "private": "true",
+  "scripts": {
+    "dev": "nodemon src/",
+    "start": "node src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Herzik/cybervasya2.0.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "javascript",
+    "grammy.js"
+  ],
+  "author": "Pavel Herzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Herzik/cybervasya/issues"
+  },
+  "homepage": "https://github.com/Herzik/cybervasya#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "grammy": "^1.15.3",
+    "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.29.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
