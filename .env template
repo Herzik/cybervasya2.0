@@ -1,0 +1,11 @@
+#Dev Token
+BOT_TOKEN=token
+API_KEY_WEATHER=
+API_KEY_GIPHY=
+ID_DEVELOPER=5414733139
+#####DATA BASE######
+DB_URL=ip_address
+DB_PORT=5432
+DB_NAME=cybervasyadb
+DB_USER=cybervasya
+DB_PASSWORD=pswd
